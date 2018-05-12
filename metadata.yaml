@@ -1,10 +1,16 @@
 _repo: Gott-betet_46908
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46908-h/images/cover-page.jpg
 creator:
   author:
     agent_name: Lichnowsky, Mechtild
     gutenberg_agent_id: '44025'
     url: http://www.gutenberg.org/2009/agents/44025
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46908#Gott-betet
 gutenberg_issued: '2014-09-20'
 gutenberg_type: Text
 identifiers:
